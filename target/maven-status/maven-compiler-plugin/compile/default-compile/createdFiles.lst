@@ -1,0 +1,6 @@
+com\service\TondeuseService.class
+com\controller\TondeuseController.class
+com\model\Pelouse.class
+com\utils\FileParser.class
+com\TondeuseApplication.class
+com\model\Tondeuse.class
